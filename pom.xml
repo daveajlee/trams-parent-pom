@@ -4,7 +4,7 @@
     <!-- This Parent POM provides basis dependencies for the TraMS platform -->
 	<groupId>de.davelee.trams</groupId>
 	<artifactId>trams-parent-pom</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Parent POM for TraMS Platform</name>
@@ -17,9 +17,8 @@
 	
 	<!-- Git Connection -->
 	<scm>
-        <connection>scm:git:https://github.com/daveajlee/ci-springboot-parent-pom</connection>
-        <url>https://github.com/daveajlee/ci-springboot-parent-pom</url>
-      	<tag>v1.0.0</tag>
+        <connection>scm:git:https://github.com/daveajlee/trams-parent-pom</connection>
+        <url>https://github.com/daveajlee/trams-parent-pom</url>
   	</scm>
   	
   	<!-- GitHub Packages -->
@@ -27,7 +26,7 @@
    		<repository>
      		<id>github</id>
      		<name>GitHub daveajlee Apache Maven Packages</name>
-     		<url>https://maven.pkg.github.com/daveajlee/ci-springboot-parent-pom</url>
+     		<url>https://maven.pkg.github.com/daveajlee/trams-parent-pom</url>
    		</repository>
 	</distributionManagement>
 	
