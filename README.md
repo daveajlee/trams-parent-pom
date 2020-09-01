@@ -1,4 +1,7 @@
 # trams-parent-pom
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6790b6d14b5a44ba91f7a26f5bfb6e1c)](https://app.codacy.com/manual/dave_33/trams-parent-pom?utm_source=github.com&utm_medium=referral&utm_content=daveajlee/trams-parent-pom&utm_campaign=Badge_Grade_Dashboard)
+
 TraMS is a Transport Management Simulator. It is a platform consisting of microservices which can be used together or independently to simulate operations of a transport operator/company/organisation. The Parent POM provides a basis for this platform containing the dependencies 
 
 ## Version 1.0.1 with Java 13 & Spring Boot 2.2.3
