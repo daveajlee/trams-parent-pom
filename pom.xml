@@ -8,6 +8,22 @@
 	<packaging>pom</packaging>
 
 	<name>Parent POM for TraMS Platform</name>
+	<description>TraMS is a Transport Management Simulator. It is a platform consisting of microservices which can be used together or independently to simulate operations of a transport operator/company/organisation. The Parent POM provides a basis for this platform containing the dependencies needed for all modules.</description>
+	<url>https://www.davelee.de</url>
+	<developers>
+		<developer>
+			<id>1</id>
+			<name>David A J Lee</name>
+			<url>https://www.davelee.de</url>
+		</developer>
+	</developers>
+	<licenses>
+		<license>
+			<name>GNU General Public Licence</name>
+			<url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
 	
 	<parent>
 		<groupId>de.davelee</groupId>
